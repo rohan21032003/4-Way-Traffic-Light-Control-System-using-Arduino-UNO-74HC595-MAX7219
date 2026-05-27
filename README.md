@@ -1,0 +1,2 @@
+# 4-Way-Traffic-Light-Control-System-using-Arduino-UNO-74HC595-MAX7219
+A realistic 4-way traffic light control system built using Arduino UNO with dual 74HC595 shift registers and MAX7219 display driver.  Features: • 4 independent road traffic control • Green → Yellow → Red sequencing • Pedestrian crossing mode • Real-time countdown timers for all roads • Shift register expansion for efficient pin usage
